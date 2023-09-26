@@ -46,6 +46,7 @@ Movie metadata is a file that contains information on 45,000 movies and possesse
 | `overview`  | Provides a short summary of the movie                                       |
 
 ## Libraries
+To view the full python code for this project, [click here](https://github.com/jidafan/netflix-recommendation/blob/main/netflix_recommendations.py).
 ```python
 import pandas as pd
 import numpy as np
